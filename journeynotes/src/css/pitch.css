@@ -1,0 +1,17 @@
+.curve-top{
+margin-Top: -190px;
+padding-bottom: 0px;
+
+}
+.container{
+  margin:0px;
+}
+
+.midPara{
+  background-color: #8533ff;
+  margin-top:0px;
+  padding:0;
+}
+.curve-top svg {
+  display:block;
+}
