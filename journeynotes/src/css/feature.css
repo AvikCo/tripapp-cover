@@ -1,0 +1,11 @@
+.main{
+  display: flex;
+  justify-content: space-around;
+  /* background-color:red; */
+  margin-top:0px;
+}
+
+.collage{
+  height: 400px;
+  width: 300px;
+}

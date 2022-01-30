@@ -5,13 +5,32 @@ padding-bottom: 0px;
 }
 .container{
   margin:0px;
+  
 }
 
 .midPara{
-  background-color: #8533ff;
-  margin-top:0px;
-  padding:0;
+  background-color:#0074D9;
+  margin-top:-18px;
+  display:flex;
+  height:auto;
+  flex-direction: column;
+  
 }
-.curve-top svg {
+.midPara p {
+background-color:#0074D9;
+align-self: center;
+font-size: 30px;
+width: 800px;
+text-align: center;
+font-weight: normal;
+font-family: 'Courgette', cursive;
+color: white;
+word-spacing:1px;
+letter-spacing:1.5px;
+}
+svg {
   display:block;
+}
+.curve-bottom {
+
 }

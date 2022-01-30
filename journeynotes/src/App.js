@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import Pitch from './Pitch';
+import Feature from './Feature';
 import './css/app.css';
 
 
@@ -9,7 +10,7 @@ const App = () => {
 		<div className='app'>
       <Header />
       <Pitch />
-			<div>Solution</div>
+			<Feature/>
 			<div>Examples</div>
 			<div>Reviews</div>
 			<div>Email list</div>
